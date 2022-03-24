@@ -1,2 +1,2 @@
 # softuni_fundamentals
-all task coded in SoftUni - Fundamentals
+all task coded in SoftUni - Fundamentals - Final Exam
